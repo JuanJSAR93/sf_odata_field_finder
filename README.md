@@ -36,7 +36,7 @@ Definir las credenciales fuera del código:
 
 ```powershell
 $env:SF_BASE_URL = "https://api19preview.sapsf.com/odata/v2"
-$env:SF_USERNAME = "SFAPI@serviandinT1"
+$env:SF_USERNAME = "SFAPI@serviadmin"
 $env:SF_PASSWORD = "<contraseña>"
 ```
 
